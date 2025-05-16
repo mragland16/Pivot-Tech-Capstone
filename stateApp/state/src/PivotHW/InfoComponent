@@ -1,0 +1,13 @@
+import React from 'react'
+
+
+export default function InfoComponent(props) {
+        
+    return(
+<div> Hi, My name is {props.name} and I have {props.numOfCats} cat ! Her name is Star. 
+
+</div>
+
+
+
+)}

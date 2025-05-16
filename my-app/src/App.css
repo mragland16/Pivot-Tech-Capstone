@@ -1,0 +1,43 @@
+/* COMPONENTS */
+
+.header-container {
+    text-align: center;
+    background-color: red;
+    text-decoration: overline underline;
+    font-size: 48px;
+}
+
+.menu {
+    border: 12px solid #B22222;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 30px;
+}
+
+.cardContainer {
+    display: flex;
+    align-items: flex;
+    justify-content: center;
+}
+
+.menuItem {
+    border: 12px solid #B22222;
+    border-radius: 10px;
+    display: flex;
+    align-items: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 120px;
+
+  
+}
+
+.footer-container {
+    background-color: navy;
+
+}
+
+.orderbutton {
+    background-color: yellow;
+}
